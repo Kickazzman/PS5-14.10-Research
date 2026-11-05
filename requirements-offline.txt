@@ -1,4 +1,0 @@
-# Bounded offline verifier dependencies
-#
-# Python 3.10+ standard library only. This file is intentionally empty so the
-# no-console verifier does not need package installation.
